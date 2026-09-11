@@ -1,10 +1,8 @@
-﻿# edu ke
+# EDU KE
 
-EDU KE | School Analytics Platform
+<img src="./assets/header.svg" width="100%" alt="EDU KE" />
 
-## Stack
-
-react Â· vite Â· typescript
+School analytics: performance, attendance, educational insights.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
